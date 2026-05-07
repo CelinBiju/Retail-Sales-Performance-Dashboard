@@ -35,3 +35,4 @@ Developed an interactive Power BI dashboard to analyse retail sales performance,
 
 <img width="1897" height="972" alt="image" src="https://github.com/user-attachments/assets/18c8a534-13aa-4aac-bd5e-6b66c420c030" />
 
+
